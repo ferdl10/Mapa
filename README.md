@@ -1,7 +1,6 @@
 Mapas
-====
 
-public class Principal extends FragmentActivity implements LocationListener {
+    public class Principal extends FragmentActivity implements LocationListener {
 
     LocationManager locationManager;
     private GoogleMap mMap; // Might be null if Google Play services APK is not available.
